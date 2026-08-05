@@ -128,3 +128,11 @@ header p {
     grid-template-columns: 1fr;
   }
 }
+
+.research-video {
+    width: 100%;
+    border-radius: 10px;
+    margin: 25px auto;
+    display: block;
+    box-shadow: 0 4px 12px rgba(0,0,0,.15);
+}
