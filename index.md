@@ -92,4 +92,3 @@ View my education, research experience, publications, presentations, awards, tec
 - [Curriculum Vitae](cv.html)
 - [Projects](projects.html)
 - [Contact](contact.html)
-- [GitHub Repositories](https://github.com/I-go-Ope)
