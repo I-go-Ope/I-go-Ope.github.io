@@ -26,19 +26,19 @@ My research experience includes work on the Pacific Ocean Neutrino Experiment (P
 
 I use CORSIKA simulations to study how primary particle species and energy affect extensive air-shower development. My work focuses on quantities such as \(X_{\max}\), charged-particle profiles, and muon production.
 
-[Read more about this project](research.md)
+[Read more about this project](research.html)
 
 ### Pacific Ocean Neutrino Experiment
 
 I contributed to the development and testing of a central timing system for the P-ONE neutrino detector, including synchronization, signal-path testing, and detector-system integration.
 
-[View my research experience](research.md)
+[View my research experience](research.html)
 
 ## Selected Links
 
-- [Research](research.md)
-- [Publications and Presentations](publications.md)
-- [Curriculum Vitae](cv.md)
-- [Projects](projects.md)
-- [Contact](contact.md)
+- [Research](research.html)
+- [Publications and Presentations](publications.html)
+- [Curriculum Vitae](cv.html)
+- [Projects](projects.html)
+- [Contact](contact.html)
 - [GitHub Repositories](https://github.com/I-go-Ope)
