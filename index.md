@@ -50,7 +50,7 @@ Learn about my work on ultra-high-energy cosmic rays, CORSIKA simulations, parti
 
 <div class="card">
 
-### Publications
+Publications:
 
 View my peer-reviewed publications, conference proceedings, posters, and research presentations.
 
@@ -60,7 +60,7 @@ View my peer-reviewed publications, conference proceedings, posters, and researc
 
 <div class="card">
 
-### Projects
+Projects:
 
 Explore my detector-development, optics, mechatronics, cloud-chamber, and scientific-instrumentation projects.
 
@@ -70,7 +70,7 @@ Explore my detector-development, optics, mechatronics, cloud-chamber, and scient
 
 <div class="card">
 
-### Curriculum Vitae
+Curriculum Vitae:
 
 View my education, research experience, publications, presentations, awards, technical skills, and service.
 
