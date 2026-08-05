@@ -9,10 +9,16 @@ title: Contact
 
 Email: [fredfuchs68@gmail.com](mailto:fredfuchs68@gmail.com)
 
-GitHub: [github.com/I-go-Ope](https://github.com/I-go-Ope)
+## Academic Profiles
 
-LinkedIn: [Fred Fuchs](https://www.linkedin.com/in/fred-fuchs-010628267)
+<a class="button-link" href="https://scholar.google.com/citations?user=M1nkYRgAAAAJ&hl=en">Google Scholar</a>
 
-Google Scholar: Add your Google Scholar profile link here.
+<a class="button-link" href="https://orcid.org/0009-0004-4911-7581">ORCID</a>
 
-ORCID: [0009-0004-4911-7581](https://orcid.org/0009-0004-4911-7581)
+<a class="button-link" href="https://github.com/I-go-Ope">GitHub</a>
+
+<a class="button-link" href="https://www.linkedin.com/in/fred-fuchs-010628267">LinkedIn</a>
+
+## Documents
+
+<a class="button-link" href="/Fredrick_Fuchs_CV_2026.pdf">Download My CV</a>
