@@ -20,11 +20,11 @@ I designed and fabricated a portable platform for the Pacific Ocean Neutrino Exp
 - Improved transport, setup, and teardown procedures
 
 <img class="research-image"
-     src="/assets/images/Platform_PONE.jpg"
+     src="/Platform_PONE.jpg"
      alt="Portable Platform for the P-ONE Timing System">
 
 <a class="button-link"
-   href="/assets/images/Platform_PONE.jpg">
+   href="/Platform_PONE.jpg">
 View Full Resolution
 </a>
 
@@ -43,7 +43,7 @@ I created an educational apparatus using dynamic carts, springs, a track, and a 
 - Presented the apparatus at multiple university events
 
 <video controls class="research-video">
-    <source src="/assets/videos/Coupled_Oscillations.mp4" type="video/mp4">
+    <source src="/Coupled_Oscillations.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -61,7 +61,7 @@ I designed and constructed a diffusion cloud chamber using plexiglass, metal pla
 - Used track structure to distinguish radiation types
 
 <video controls class="research-video">
-    <source src="/assets/videos/Cloud_Chamber.mp4" type="video/mp4">
+    <source src="/Cloud_Chamber.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -80,11 +80,11 @@ I designed and constructed a water-propelled bottle rocket using two-liter bottl
 - Collected motion data without compromising flight stability
 
 <img class="research-image"
-     src="/assets/images/Rocket.jpg"
+     src="/Rocket.jpg"
      alt="Water Rocket">
 
 <a class="button-link"
-   href="/assets/images/Rocket.jpg">
+   href="/Rocket.jpg">
 View Full Resolution
 </a>
 
