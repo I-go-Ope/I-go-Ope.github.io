@@ -1,0 +1,10 @@
+title: Fredrick Fuchs
+description: Experimental particle physics, particle astrophysics, and detector development
+theme: jekyll-theme-minimal
+
+logo: /assets/images/profile.jpg
+
+show_downloads: false
+
+github:
+  is_project_page: false
