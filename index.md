@@ -7,7 +7,7 @@ title: Home
 
 **Experimental Particle Physics | Particle Astrophysics | Detector Development**
 
-I am a graduate-school applicant with bachelor's degrees in Engineering Physics and Mathematics from Elmhurst University. My research interests include ultra-high-energy cosmic rays, high-energy neutrinos, extensive air showers, detector instrumentation, and computational particle physics.
+I am an experimental particle-physics researcher with bachelor's degrees in Engineering Physics and Mathematics from Elmhurst University. My work focuses on ultra-high-energy cosmic rays, high-energy neutrinos, extensive air showers, detector instrumentation, and computational particle physics.
 
 My research experience includes work on the Pacific Ocean Neutrino Experiment (P-ONE), CORSIKA simulations of ultra-high-energy cosmic-ray showers, detector timing systems, scientific programming, and data analysis.
 
@@ -34,7 +34,56 @@ I contributed to the development and testing of a central timing system for the 
 
 [View my research experience](research.html)
 
-## Selected Links
+## Explore My Work
+
+<div class="card-grid">
+
+<div class="card">
+
+### Research
+
+Learn about my work on ultra-high-energy cosmic rays, CORSIKA simulations, particle showers, and the P-ONE neutrino detector.
+
+<a class="button-link" href="/research.html">View Research</a>
+
+</div>
+
+<div class="card">
+
+### Publications
+
+View my peer-reviewed publications, conference proceedings, posters, and research presentations.
+
+<a class="button-link" href="/publications.html">View Publications</a>
+
+</div>
+
+<div class="card">
+
+### Projects
+
+Explore my detector-development, optics, mechatronics, cloud-chamber, and scientific-instrumentation projects.
+
+<a class="button-link" href="/projects.html">View Projects</a>
+
+</div>
+
+<div class="card">
+
+### Curriculum Vitae
+
+View my education, research experience, publications, presentations, awards, technical skills, and service.
+
+<a class="button-link" href="/cv.html">View CV</a>
+
+</div>
+
+</div>
+
+## Connect
+
+<a class="button-link" href="/contact.html">Contact Me</a>
+<a class="button-link" href="https://github.com/I-go-Ope">GitHub</a>
 
 - [Research](research.html)
 - [Publications and Presentations](publications.html)
