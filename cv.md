@@ -17,3 +17,4 @@ My academic CV includes:
 ## Download
 
 [📄 Download my Curriculum Vitae](/Fredrick_Fuchs_CV_2026.pdf)
+
