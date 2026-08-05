@@ -92,17 +92,23 @@ View Full Resolution
 
 ## Low-Cost Interferometer Kit
 
-I designed and built an accessible interferometer intended for undergraduate optics experiments.
+I designed and constructed a low-cost interferometer intended for undergraduate optics laboratories. The project emphasized affordability, reproducibility, and accessibility by incorporating custom three-dimensional printed components and commercially available optical elements.
 
 ### Goals
 
 - Reduce the cost of introductory interferometry demonstrations
 - Create components suitable for three-dimensional printing
-- Produce visible and stable interference patterns
-- Make the apparatus easier to reproduce for instructional laboratories
+- Produce stable and visible interference patterns
+- Develop a design that could be reproduced by educators and students
 
-<!--
-<img class="research-image" src="/assets/images/interferometer/interferometer_setup.jpg" alt="Low-cost interferometer setup">
+### Resources
 
-<img class="research-image" src="/assets/images/interferometer/interference_pattern.jpg" alt="Observed interference pattern">
--->
+<a class="button-link"
+href="https://www.thingiverse.com/thing:7340900">
+View on Thingiverse
+</a>
+
+<a class="button-link"
+href="/CV_Optics.stl">
+Download STL File
+</a>
