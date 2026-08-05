@@ -41,10 +41,14 @@ I created an educational apparatus using dynamic carts, springs, a track, and a 
 - Connected theoretical predictions with physical observations
 - Presented the apparatus at multiple university events
 
-<!--
-<img class="research-image" src="/assets/images/oscillations/oscillation_apparatus.jpg" alt="Coupled-oscillations educational apparatus">
+<img class="research-image"
+     src="/assets/images/Platform_PONE.jpg"
+     alt="Portable platform for the P-ONE timing system">
 
-<a class="button-link" href="VIDEO-URL">Watch the Apparatus</a>
+<a class="button-link"
+   href="/assets/images/Platform_PONE.jpg">
+View Full Resolution
+</a>
 -->
 
 ---
