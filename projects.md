@@ -19,13 +19,14 @@ I designed and fabricated a portable platform for the Pacific Ocean Neutrino Exp
 - Separated power and data lines to reduce clutter and potential interference
 - Improved transport, setup, and teardown procedures
 
-<!-- Upload an image and remove the comment markers:
-<img class="research-image" src="/assets/images/pone/pone_platform.jpg" alt="Portable P-ONE timing-system platform">
--->
+<img class="research-image"
+     src="/assets/images/Platform_PONE.jpg"
+     alt="Portable Platform for the P-ONE Timing System">
 
-<!-- Add a video link here later:
-<a class="button-link" href="VIDEO-URL">View Demonstration Video</a>
--->
+<a class="button-link"
+   href="/assets/images/Platform_PONE.jpg">
+View Full Resolution
+</a>
 
 ---
 
@@ -41,15 +42,10 @@ I created an educational apparatus using dynamic carts, springs, a track, and a 
 - Connected theoretical predictions with physical observations
 - Presented the apparatus at multiple university events
 
-<img class="research-image"
-     src="/assets/images/Platform_PONE.jpg"
-     alt="Portable platform for the P-ONE timing system">
-
-<a class="button-link"
-   href="/assets/images/Platform_PONE.jpg">
-View Full Resolution
-</a>
--->
+<video controls class="research-video">
+    <source src="/assets/videos/Coupled_Oscillations.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -64,13 +60,10 @@ I designed and constructed a diffusion cloud chamber using plexiglass, metal pla
 - Observed differences between alpha- and beta-particle tracks
 - Used track structure to distinguish radiation types
 
-<!--
-<img class="research-image" src="/assets/images/cloud-chamber/cloud_chamber.jpg" alt="Diffusion cloud chamber">
-
-<img class="research-image" src="/assets/images/cloud-chamber/particle_tracks.jpg" alt="Particle tracks inside the cloud chamber">
-
-<a class="button-link" href="VIDEO-URL">Watch Cloud-Chamber Video</a>
--->
+<video controls class="research-video">
+    <source src="/assets/videos/Cloud_Chamber.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -86,13 +79,14 @@ I designed and constructed a water-propelled bottle rocket using two-liter bottl
 - Developed structural reinforcement for launch
 - Collected motion data without compromising flight stability
 
-<!--
-<img class="research-image" src="/assets/images/rocket/rocket_design.jpg" alt="Water-rocket design">
+<img class="research-image"
+     src="/assets/images/Rocket.jpg"
+     alt="Water Rocket">
 
-<img class="research-image" src="/assets/images/rocket/rocket_launch.jpg" alt="Water-rocket launch">
-
-<a class="button-link" href="VIDEO-URL">Watch Launch Video</a>
--->
+<a class="button-link"
+   href="/assets/images/Rocket.jpg">
+View Full Resolution
+</a>
 
 ---
 
