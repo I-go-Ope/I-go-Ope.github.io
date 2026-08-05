@@ -49,7 +49,7 @@ I created an educational apparatus using dynamic carts, springs, a track, and a 
 
 ---
 
-## Diffusion Cloud Chamber
+## Cloud Cloud Chamber
 
 I designed and constructed a diffusion cloud chamber using plexiglass, metal plates, dry ice, and isopropyl alcohol.
 
