@@ -40,7 +40,7 @@ I contributed to the development and testing of a central timing system for the 
 
 <div class="card">
 
-### Research
+Research:
 
 Learn about my work on ultra-high-energy cosmic rays, CORSIKA simulations, particle showers, and the P-ONE neutrino detector.
 
