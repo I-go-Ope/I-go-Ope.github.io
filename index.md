@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# Fredrick Fuchs
+# About Me
 
-**Experimental Particle Physics | Particle Astrophysics | Detector Development**
+I hold bachelor's degrees in Engineering Physics and Mathematics from Elmhurst University. My research experience includes the Pacific Ocean Neutrino Experiment, CORSIKA simulations of ultra-high-energy cosmic-ray showers, detector timing systems, scientific programming, and statistical data analysis.
 
-I am an experimental particle-physics researcher with bachelor's degrees in Engineering Physics and Mathematics from Elmhurst University. My work focuses on ultra-high-energy cosmic rays, high-energy neutrinos, extensive air showers, detector instrumentation, and computational particle physics.
+I am particularly interested in using simulation and detector instrumentation to study ultra-high-energy cosmic rays, high-energy neutrinos, and extensive air showers.
 
 My research experience includes work on the Pacific Ocean Neutrino Experiment (P-ONE), CORSIKA simulations of ultra-high-energy cosmic-ray showers, detector timing systems, scientific programming, and data analysis.
 
