@@ -7,7 +7,7 @@ title: Research
 
 My research combines **experimental particle physics**, **particle astrophysics**, and **scientific instrumentation** to investigate fundamental questions in high-energy physics. My work integrates large-scale Monte Carlo simulations, detector development, statistical analysis, and scientific computing to better understand the particles and interactions that shape our universe.
 
-As an undergraduate at Elmhurst University, I have contributed to both computational and experimental research through the **Pacific Ocean Neutrino Experiment (P-ONE)** and a comprehensive study of **ultra-high-energy cosmic rays** using CORSIKA. These projects have allowed me to develop experience in detector instrumentation, simulation, scientific programming, and quantitative data analysis while working on problems directly connected to modern particle astrophysics.
+As an undergraduate at Elmhurst University, I have contributed to both computational and experimental research through the **Pacific Ocean Neutrino Experiment (P-ONE)** and a comprehensive study of **ultra-high-energy cosmic rays** using CORSIKA.
 
 ---
 
@@ -17,15 +17,15 @@ As an undergraduate at Elmhurst University, I have contributed to both computati
 |---------|--------|
 | 🟢 Ultra-High-Energy Cosmic-Ray Composition | Active |
 | 🟢 Cherenkov Radiation Simulations | Active |
-| 🔵 Pacific Ocean Neutrino Experiment (Timing Platform) | Completed Contribution |
+| 🔵 Pacific Ocean Neutrino Experiment | Completed Contribution |
 
 ---
 
 # Research Philosophy
 
-I am particularly interested in research that combines computational modeling with experimental measurement. I enjoy developing instrumentation that improves our ability to observe physical phenomena while using simulation and statistical analysis to interpret experimental data.
+I enjoy research that combines simulation, experimentation, and instrumentation. My goal is to understand fundamental particle interactions while developing the tools necessary to observe them.
 
-My long-term interests lie in large collaborative experiments studying cosmic rays, neutrinos, and other high-energy particles, where detector development, scientific computing, and experimental measurements work together to answer fundamental questions in particle astrophysics.
+I am especially interested in large collaborative experiments studying cosmic rays, neutrinos, and other high-energy particles where detector development and computational analysis work together.
 
 ---
 
@@ -33,22 +33,22 @@ My long-term interests lie in large collaborative experiments studying cosmic ra
 
 # Composition of Ultra-High-Energy Cosmic Rays
 
-*(Featured heatmap coming soon)*
+*(Featured heatmap coming tomorrow)*
 
 ## Scientific Motivation
 
-Ultra-high-energy cosmic rays (UHECRs) are among the most energetic particles ever observed, yet their composition and astrophysical origins remain uncertain. Since primary cosmic rays cannot be observed directly after interacting with Earth's atmosphere, extensive air showers provide one of the few methods available for determining their properties.
+Ultra-high-energy cosmic rays remain one of the largest mysteries in particle astrophysics. Because primary particles cannot be observed directly after interacting with Earth's atmosphere, extensive air showers provide one of the few methods available for determining their properties.
 
-This project investigates whether observables such as the depth of shower maximum ($X_{\max}$), longitudinal particle development, and muon production can be used to distinguish between primary nuclei across multiple energies.
+This research investigates whether observables such as the depth of shower maximum ($X_{\max}$), longitudinal shower development, and muon production can be used to distinguish primary nuclei.
 
 ---
 
 ## Research Questions
 
-- How does $X_{\max}$ vary as a function of primary energy and atomic number?
-- Can longitudinal shower profiles distinguish between neighboring elements?
-- How do charged-particle and muon distributions compare across primary species?
-- Can Cherenkov observables improve primary composition measurements?
+- How does $X_{\max}$ vary with energy?
+- How does $X_{\max}$ vary with atomic number?
+- Can longitudinal shower profiles distinguish neighboring nuclei?
+- Can Cherenkov radiation improve composition measurements?
 
 ---
 
@@ -65,28 +65,32 @@ This project utilizes
 - Shapiro-Wilk statistical analysis
 - Automated processing of CORSIKA `.long` files
 
-Primary nuclei ranging from hydrogen through iron were simulated over multiple primary energies. Longitudinal shower profiles were analyzed to determine $X_{\max}$, particle distributions, and statistical trends associated with primary composition.
+Primary nuclei from hydrogen through iron were simulated across multiple energies and analyzed to investigate systematic trends in shower development.
 
 ---
 
 ## Selected Results
 
-The simulations demonstrate the expected increase in $X_{\max}$ with increasing primary energy and the corresponding decrease in penetration depth for heavier nuclei. Statistical analysis confirms systematic trends in shower development while also illustrating the overlap between neighboring elemental species, motivating additional composition-sensitive observables such as Cherenkov radiation.
+*(Heatmap)*
 
-Additional figures and analyses will be added as this project progresses.
+*(Muon Heatmap)*
+
+*(Species Comparison Figure)*
+
+The simulations reproduce the expected increase in $X_{\max}$ with increasing energy and the reduction in penetration depth for heavier nuclei. Statistical analysis demonstrates significant trends while highlighting the overlap between neighboring elements, motivating the investigation of additional observables such as Cherenkov radiation.
 
 ---
 
 ## Current Status
 
-- ✔ CORSIKA simulations completed
-- ✔ Automated analysis software developed
+- ✔ Simulation production complete
+- ✔ Automated analysis completed
 - ✔ Statistical analysis completed
 - ✔ Figures generated
 - ✔ Research poster completed
 - ✔ Senior research presentation completed
 - 🔄 Manuscript in preparation
-- 🔄 Cherenkov extension underway
+- 🔄 Cherenkov analysis underway
 
 ---
 
@@ -97,7 +101,7 @@ Additional figures and analyses will be added as this project progresses.
 </a>
 
 <a class="button-link" href="#">
-🖼 Research Poster (Coming Soon)
+🖼 Research Poster
 </a>
 
 <a class="button-link" href="https://github.com/I-go-Ope">
@@ -108,19 +112,23 @@ Additional figures and analyses will be added as this project progresses.
 
 # Pacific Ocean Neutrino Experiment (P-ONE)
 
-*(Platform photograph coming soon)*
+*(Timing electronics photograph coming tomorrow)*
 
-From 2024–2025, I contributed to the development, testing, and deployment of the central timing platform for the **Pacific Ocean Neutrino Experiment (P-ONE)**. My work focused on the design of a portable instrumentation platform, timing-system integration, detector testing, system validation, and technical documentation supporting the experiment's first detector deployment.
+From 2024–2025, I contributed to the development, testing, and deployment of the central timing system for the **Pacific Ocean Neutrino Experiment (P-ONE)**. My work centered on detector instrumentation, timing-system integration, system validation, and technical documentation supporting the experiment's first detector deployment.
 
 ## My Contributions
 
-- Designed and fabricated a portable instrumentation platform
 - Integrated and tested the central timing system
-- Improved cable organization and equipment accessibility
-- Assisted with detector-system validation and deployment
-- Contributed to technical documentation supporting detector operations
+- Assisted with detector-system validation
+- Participated in detector integration
+- Supported system testing and deployment
+- Contributed technical documentation
 
-This work resulted in peer-reviewed journal publications, conference proceedings, invited presentations, and conference posters. Additional information is available on the **Publications** page.
+The work contributed to multiple peer-reviewed journal publications, conference proceedings, invited presentations, and research posters.
+
+<a class="button-link" href="/publications.html">
+View Publications
+</a>
 
 ---
 
@@ -128,42 +136,30 @@ This work resulted in peer-reviewed journal publications, conference proceedings
 
 ## Computational Particle Physics
 
-- Large-scale Monte Carlo simulations
+- Monte Carlo simulations
 - Scientific programming
-- Statistical data analysis
-- Computational modeling
-- High-performance data processing
+- Statistical analysis
+- Data visualization
+- High-performance computing
 
 ---
 
 ## Experimental Particle Physics
 
 - Detector instrumentation
-- Detector integration
 - Timing systems
+- Detector integration
 - Experimental validation
 - Large scientific collaborations
 
 ---
 
-## Scientific Instrumentation
+## Current Directions
 
-- Educational physics apparatus
-- Mechanical design
-- CAD
-- 3D printing
-- Scientific prototyping
-
----
-
-# Current Directions
-
-Current research efforts are focused on
+Current efforts include
 
 - Expanding CORSIKA simulation statistics
-- Incorporating Cherenkov observables into composition studies
-- Developing additional composition-sensitive analysis techniques
-- Improving automated shower-analysis software
-- Investigating new statistical methods for primary-particle identification
-
-More broadly, I am interested in experimental particle physics, detector instrumentation, and computational approaches to particle astrophysics. I hope to contribute to future experiments investigating ultra-high-energy cosmic rays, neutrinos, and other fundamental particles through the development of innovative detectors and advanced data-analysis techniques.
+- Cherenkov-radiation simulations
+- Additional composition-sensitive observables
+- Automated analysis software
+- Improved statistical classification methods
