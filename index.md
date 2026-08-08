@@ -5,11 +5,13 @@ title: Home
 
 # About Me
 
-I hold bachelor's degrees in Engineering Physics and Mathematics from Elmhurst University. My research experience includes the Pacific Ocean Neutrino Experiment, CORSIKA simulations of ultra-high-energy cosmic-ray showers, detector timing systems, scientific programming, and statistical data analysis.
+I am an experimental particle physicist and mathematician whose research combines detector instrumentation, computational physics, and large-scale simulations to investigate high-energy particles and astrophysical phenomena.
 
-I am particularly interested in using simulation and detector instrumentation to study ultra-high-energy cosmic rays, high-energy neutrinos, and extensive air showers.
+I earned bachelor's degrees in **Engineering Physics** and **Mathematics** from Elmhurst University, where I conducted research on the **Pacific Ocean Neutrino Experiment (P-ONE)**, **ultra-high-energy cosmic rays**, and the design of scientific instrumentation for research and education.
 
-My research experience includes work on the Pacific Ocean Neutrino Experiment (P-ONE), CORSIKA simulations of ultra-high-energy cosmic-ray showers, detector timing systems, scientific programming, and data analysis.
+My current research focuses on extensive air-shower simulations using CORSIKA to investigate the composition of ultra-high-energy cosmic rays through observables such as \(X_{\max}\), longitudinal shower development, and muon production. I am also expanding this work to include Cherenkov-radiation simulations as an additional composition-sensitive observable.
+
+My long-term research interests include experimental particle physics, particle astrophysics, detector instrumentation, and the development of next-generation experiments studying cosmic rays and high-energy neutrinos.
 
 ## Research Interests
 
