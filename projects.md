@@ -5,101 +5,137 @@ title: Projects
 
 # Projects
 
-This page highlights selected research, engineering, instrumentation, and educational projects completed during my undergraduate studies.
+My project work complements my research experience through the design, construction, and testing of scientific instrumentation and educational physics apparatus. These projects have provided hands-on experience with mechanical design, electronics integration, CAD, three-dimensional printing, experimental testing, and technical problem solving.
+
+---
+
+# Research Instrumentation
 
 ## Portable Platform for the P-ONE Timing System
 
-I designed and fabricated a portable platform for the Pacific Ocean Neutrino Experiment timing system. The platform was developed to improve equipment organization, protect sensitive components, and allow rapid deployment without requiring the system to be reconfigured.
-
-### Contributions
-
-- Designed and fabricated custom mounting stands
-- Created a stable and repeatable equipment layout
-- Developed integrated cable management
-- Separated power and data lines to reduce clutter and potential interference
-- Improved transport, setup, and teardown procedures
-
 <img class="research-image"
      src="/Platform_PONE.jpg"
-     alt="Portable Platform for the P-ONE Timing System">
+     alt="Portable platform for the P-ONE central timing system">
+
+### Overview
+
+As part of my work with the **Pacific Ocean Neutrino Experiment (P-ONE)**, I designed and fabricated a portable platform for the experiment's central timing system.
+
+The platform was developed to provide a stable and repeatable equipment layout while improving transportation, setup, accessibility, and organization of the timing hardware.
+
+### My Contributions
+
+- Designed and fabricated custom mounting structures
+- Developed a repeatable equipment layout
+- Improved cable organization and equipment accessibility
+- Separated power and data pathways
+- Improved transportation, setup, and teardown procedures
+- Supported integration and testing of the central timing system
+
+### Skills Demonstrated
+
+- Detector instrumentation
+- Mechanical design
+- Electronics integration
+- System organization
+- Technical documentation
+- Experimental troubleshooting
 
 <a class="button-link"
    href="/Platform_PONE.jpg">
 View Full Resolution
 </a>
 
+<a class="button-link"
+   href="/research.html">
+View P-ONE Research
+</a>
+
 ---
 
+# Experimental & Educational Physics
+
 ## Coupled-Oscillations Educational Aid
-
-I created an educational apparatus using dynamic carts, springs, a track, and a linear actuator to demonstrate coupled oscillations and the effects of external driving forces.
-
-### Contributions
-
-- Constructed the physical coupled-oscillation system
-- Designed and incorporated a linear actuator
-- Developed Mathematica models of the system
-- Connected theoretical predictions with physical observations
-- Presented the apparatus at multiple university events
 
 <video controls class="research-video">
     <source src="/Coupled_Oscillations.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
+### Overview
+
+I designed and constructed an educational apparatus using dynamic carts, springs, a track, and a linear actuator to demonstrate coupled oscillations and the behavior of driven mechanical systems.
+
+The project combined theoretical modeling with a physical apparatus that could be used to visualize normal modes, coupling, and externally driven oscillations.
+
+### My Contributions
+
+- Constructed the coupled-oscillation apparatus
+- Integrated a linear actuator for external driving
+- Developed Mathematica models of the system
+- Compared theoretical predictions with physical behavior
+- Presented the apparatus at university research events
+
+### Skills Demonstrated
+
+- Classical mechanics
+- Mathematica
+- Experimental design
+- Mechanical construction
+- Data interpretation
+- Scientific communication
+
 ---
 
-## Cloud Cloud Chamber
-
-I designed and constructed a diffusion cloud chamber using plexiglass, metal plates, dry ice, and isopropyl alcohol.
-
-### Contributions
-
-- Created a supersaturated alcohol-vapor environment
-- Visualized tracks produced by charged particles
-- Observed differences between alpha- and beta-particle tracks
-- Used track structure to distinguish radiation types
+## Diffusion Cloud Chamber
 
 <video controls class="research-video">
     <source src="/Cloud_Chamber.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
----
+### Overview
 
-## Small-Scale Rocket Design Project
+I designed and constructed a diffusion cloud chamber using plexiglass, metal plates, dry ice, and isopropyl alcohol to visualize the paths of charged particles.
 
-I designed and constructed a water-propelled bottle rocket using two-liter bottles, custom three-dimensional printed fins, and an onboard Bluetooth motion tracker.
+A supersaturated alcohol-vapor region allows ionizing particles to produce visible condensation trails.
 
-### Contributions
+### Observations
 
-- Modeled aerodynamic fins using RhinoCAD
-- Fabricated custom fins using three-dimensional printing
-- Designed a protective tracker housing
-- Developed structural reinforcement for launch
-- Collected motion data without compromising flight stability
+The chamber produced visible particle tracks with different morphologies, allowing qualitative differentiation between particle types such as alpha and beta radiation.
 
-<img class="research-image"
-     src="/Rocket.jpg"
-     alt="Water Rocket">
+### Skills Demonstrated
 
-<a class="button-link"
-   href="/Rocket.jpg">
-View Full Resolution
-</a>
+- Particle detection
+- Radiation physics
+- Experimental construction
+- Scientific observation
+- Troubleshooting
+- Laboratory safety
 
 ---
 
 ## Low-Cost Interferometer Kit
 
-I designed and constructed a low-cost interferometer intended for undergraduate optics laboratories. The project emphasized affordability, reproducibility, and accessibility by incorporating custom three-dimensional printed components and commercially available optical elements.
+### Overview
+
+I designed and constructed a low-cost interferometer intended for undergraduate optics laboratories. The project emphasized affordability, reproducibility, and accessibility through custom three-dimensional printed components and commercially available optical elements.
 
 ### Goals
 
 - Reduce the cost of introductory interferometry demonstrations
 - Create components suitable for three-dimensional printing
 - Produce stable and visible interference patterns
-- Develop a design that could be reproduced by educators and students
+- Develop a design that can be reproduced by educators and students
+
+### Skills Demonstrated
+
+- Optical alignment
+- CAD design
+- 3D printing
+- Experimental optics
+- Scientific instrumentation
+- Rapid prototyping
 
 ### Resources
 
@@ -112,3 +148,58 @@ View on Thingiverse
 href="/CV_Optics.stl">
 Download STL File
 </a>
+
+---
+
+# Engineering Design
+
+## Small-Scale Rocket Design
+
+<img class="research-image"
+     src="/Rocket.jpg"
+     alt="Small-scale water rocket developed for an engineering design project">
+
+### Overview
+
+I designed and constructed a water-propelled rocket using two-liter bottles, custom three-dimensional printed fins, and an onboard Bluetooth motion tracker.
+
+The design needed to protect the instrumentation without significantly compromising flight stability.
+
+### My Contributions
+
+- Modeled aerodynamic fins using RhinoCAD
+- Fabricated custom components using 3D printing
+- Designed a protective housing for the motion tracker
+- Reinforced the rocket structure for launch
+- Collected motion data during flight
+- Evaluated the design after testing
+
+### Skills Demonstrated
+
+- Engineering design
+- CAD
+- 3D printing
+- Instrumentation
+- Rapid prototyping
+- Experimental testing
+
+<a class="button-link"
+   href="/Rocket.jpg">
+View Full Resolution
+</a>
+
+---
+
+# Technical Interests
+
+Across these projects, I have developed experience at the intersection of physics and engineering, particularly in areas involving
+
+- Scientific instrumentation
+- Detector and electronics integration
+- Mechanical design
+- CAD and three-dimensional printing
+- Experimental troubleshooting
+- Data collection and analysis
+- Physics education and demonstration apparatus
+
+These experiences complement my computational and particle-physics research by giving me practical experience designing, constructing, and testing physical systems.
