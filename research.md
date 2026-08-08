@@ -82,18 +82,17 @@ Primary particles from hydrogen through iron were simulated over multiple energi
 
 # Pacific Ocean Neutrino Experiment (P-ONE)
 
-I contributed to the development and testing of the central timing platform for the Pacific Ocean Neutrino Experiment.
+From 2024–2025, I contributed to the development, testing, and deployment of the central timing platform for the Pacific Ocean Neutrino Experiment (P-ONE). My work focused on the design of a portable instrumentation platform, timing-system integration, detector testing, system validation, and technical documentation supporting the experiment's first detector deployment.
 
-My responsibilities included
+### My Contributions
 
-- Assembly and testing of the timing system
-- Platform design
-- Cable management
-- Detector integration
-- Documentation
-- System validation
+- Designed and fabricated a portable instrumentation platform
+- Integrated and tested the central timing system
+- Improved cable organization and equipment accessibility
+- Assisted with detector-system validation and deployment
+- Contributed to documentation supporting detector operations
 
-The timing system exceeded the original timing requirements and contributed to the first deployment of P-ONE instrumentation.
+This work resulted in peer-reviewed journal publications, conference proceedings, invited presentations, and conference posters, all of which are available on the **Publications** page.
 
 ---
 
