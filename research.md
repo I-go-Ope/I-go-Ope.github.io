@@ -120,8 +120,7 @@ From 2024–2025, I contributed to the development, testing, and deployment of t
 
 - Integrated and tested the central timing system
 - Assisted with detector-system validation
-- Participated in detector integration
-- Supported system testing and deployment
+- Supported system testing
 - Contributed technical documentation
 
 The work contributed to multiple peer-reviewed journal publications, conference proceedings, invited presentations, and research posters.
