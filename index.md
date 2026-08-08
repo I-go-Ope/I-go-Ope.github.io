@@ -19,7 +19,7 @@ My current research focuses on extensive air-shower simulations using **CORSIKA*
 |---------|--------|
 | 🟢 Ultra-High-Energy Cosmic-Ray Composition | Active |
 | 🟢 Cherenkov Radiation Simulations | Active |
-| 🔵 Pacific Ocean Neutrino Experiment (Timing Platform) | Completed Contribution |
+| 🔵 Pacific Ocean Neutrino Experiment (Timing System and Platform) | Completed Contribution |
 
 ---
 
