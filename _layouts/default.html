@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>
+        {% if page.title %}
+        {{ page.title }} | {{ site.title }}
+        {% else %}
+        {{ site.title }}
+        {% endif %}
+    </title>
+
+    <link rel="stylesheet"
+          href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+
+<body>
+
+<header class="site-header">
+
+    <div class="nav-container">
+
+        <a class="site-name" href="/">
+            Fredrick Fuchs
+        </a>
+
+        <nav class="site-nav">
+
+            <a href="/">Home</a>
+
+            <a href="/research.html">
+                Research
+            </a>
+
+            <a href="/projects.html">
+                Projects
+            </a>
+
+            <a href="/publications.html">
+                Publications
+            </a>
+
+            <a href="/cv.html">
+                CV
+            </a>
+
+            <a href="/contact.html">
+                Contact
+            </a>
+
+        </nav>
+
+    </div>
+
+</header>
+
+
+<main class="page-content">
+
+    {{ content }}
+
+</main>
+
+
+<footer class="site-footer">
+
+    <p>
+        © {{ site.time | date: "%Y" }} Fredrick Fuchs
+    </p>
+
+</footer>
+
+
+</body>
+
+</html>
