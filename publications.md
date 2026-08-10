@@ -147,6 +147,11 @@ F. Fuchs, A. Magaña Ponce, and R. Halliday
 
 Research and Performance Showcase, Elmhurst University, May 2026.
 
+<a class="button-link"
+href="/Composition%20of%20Ultra-High-Energy%20Cosmic%20Rays.pdf">
+📄 View Poster
+</a>
+
 ### Cosmic-Ray Shower Development by Element at \(10^{18}\) eV
 
 F. Fuchs, T. Imanlihen, and R. Halliday
@@ -158,3 +163,8 @@ Welcome to STEM Poster Session, Elmhurst University, September 2025.
 A. Magaña Ponce, F. Fuchs, and R. Halliday
 
 Summer Research Showcase, Elmhurst University, September 2024.
+
+<a class="button-link"
+href="/P-ONE%20Central%20Timing%20Poster.pdf">
+📄 View Poster
+</a>
