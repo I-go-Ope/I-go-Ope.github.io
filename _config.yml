@@ -1,10 +1,8 @@
 title: Fredrick Fuchs
-description: Ultra-high-energy cosmic rays, neutrino physics, and detector development
-theme: jekyll-theme-minimal
 
-logo: /Screenshot%202026-01-07%20192807.png
+description: Experimental Particle Physics, Particle Astrophysics, and Detector Development
 
-show_downloads: false
+markdown: kramdown
 
 github:
   is_project_page: false
