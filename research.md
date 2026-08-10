@@ -231,7 +231,7 @@ Current work includes configuring CORSIKA for Cherenkov production, testing simu
 </a>
 
 <a class="button-link"
-   href="https://github.com/I-go-Ope/Ultra-High-Energy-Cosmic-Rays-UHECRs">
+   href="https://github.com/I-go-Ope/Ultra-High-Energy-Cosmic-Rays-UHECRs-">
 💻 Project Repository
 </a>
 
