@@ -165,6 +165,6 @@ A. Magaña Ponce, F. Fuchs, and R. Halliday
 Summer Research Showcase, Elmhurst University, September 2024.
 
 <a class="button-link"
-href="/P_ONE%20Central%20Timing%20Poster.pdf">
+href="/P_ONE%20Central%20Timing%20%20Poster.pdf">
 📄 View Poster
 </a>
