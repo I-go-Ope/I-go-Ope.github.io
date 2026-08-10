@@ -49,9 +49,6 @@ The platform provides a stable, organized, and transportable layout for electron
 - Fabrication
 - Project planning
 
-<img class="research-image"
-src="/Platform_PONE.jpg">
-
 ---
 
 # Experimental Physics
