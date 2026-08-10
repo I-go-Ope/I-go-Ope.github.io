@@ -19,7 +19,7 @@ Experimental Particle Physics | Particle Astrophysics | Detector Development
 
 I am an experimental particle physicist and mathematician whose research combines detector instrumentation, computational physics, and large-scale simulations to investigate high-energy particles and astrophysical phenomena.
 
-I earned bachelor's degrees in **Engineering Physics** and **Mathematics** from **Elmhurst University**, where I conducted research on the Pacific Ocean Neutrino Experiment (P-ONE), ultra-high-energy cosmic rays, and scientific instrumentation.
+I earned bachelor's degrees in Engineering Physics and Mathematics from Elmhurst University, where I conducted research on the Pacific Ocean Neutrino Experiment (P-ONE), ultra-high-energy cosmic rays, and scientific instrumentation.
 
 </div>
 
