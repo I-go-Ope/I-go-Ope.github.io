@@ -158,6 +158,11 @@ F. Fuchs, T. Imanlihen, and R. Halliday
 
 Welcome to STEM Poster Session, Elmhurst University, September 2025.
 
+<a class="button-link"
+   href="/CRPoster.pdf">
+📄 View Poster
+</a>
+
 ### It’s About Time... and Neutrinos: Synchronizing the Pacific with P-ONE
 
 A. Magaña Ponce, F. Fuchs, and R. Halliday
