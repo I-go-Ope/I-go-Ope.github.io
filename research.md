@@ -221,6 +221,8 @@ Current work includes configuring CORSIKA for Cherenkov production, testing simu
 
 # Research Outputs
 
+<div class="button-row">
+
 <a class="button-link" href="#">
 📄 Paper (Coming Soon)
 </a>
@@ -234,6 +236,8 @@ Current work includes configuring CORSIKA for Cherenkov production, testing simu
    href="https://github.com/I-go-Ope/Ultra-High-Energy-Cosmic-Rays-UHECRs-">
 💻 Project Repository
 </a>
+
+</div>
 
 ---
 
