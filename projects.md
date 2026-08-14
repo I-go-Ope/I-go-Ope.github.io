@@ -108,6 +108,8 @@ Designed a low-cost interferometer for undergraduate optics instruction using co
 
 ### Resources
 
+<div class="button-row">
+
 <a class="button-link"
 href="https://www.thingiverse.com/thing:7340900">
 Thingiverse Page
@@ -117,6 +119,8 @@ Thingiverse Page
 href="/CV_Optics.stl">
 Download STL
 </a>
+
+</div>
 
 ---
 
