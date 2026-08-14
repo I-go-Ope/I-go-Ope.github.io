@@ -38,11 +38,6 @@ LinkedIn
 
 </div>
 
-<a class="button-link"
-href="https://www.linkedin.com/in/fred-fuchs-010628267">
-LinkedIn
-</a>
-
 ## Curriculum Vitae
 
 <a class="button-link"
