@@ -5,9 +5,13 @@ title: Publications and Presentations
 
 # Publications and Presentations
 
+<div class="button-row">
+
 <a class="button-link" href="https://scholar.google.com/citations?user=M1nkYRgAAAAJ&hl=en">Google Scholar Profile</a>
 
 <a class="button-link" href="https://orcid.org/0009-0004-4911-7581">ORCID Profile</a>
+
+</div>
 
 ## Peer-Reviewed Publications
 
