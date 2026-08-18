@@ -251,7 +251,7 @@ Current work includes configuring CORSIKA for Cherenkov production, testing simu
 Detector timing-system hardware developed and tested as part of my work with the Pacific Ocean Neutrino Experiment (P-ONE).
 </p>
 
-From 2024–2025, I contributed to the development, testing, and deployment of the central timing system for the **Pacific Ocean Neutrino Experiment (P-ONE)**.
+From 2024–2025, I contributed to the development and testing of the central timing system for the **Pacific Ocean Neutrino Experiment (P-ONE)**.
 
 P-ONE is a deep-ocean neutrino telescope being developed in the Pacific Ocean. Precise timing between detector components is necessary for reconstructing the arrival times and trajectories of particles produced by neutrino interactions.
 
