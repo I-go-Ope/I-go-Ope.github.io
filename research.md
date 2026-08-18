@@ -259,12 +259,10 @@ My work focused on detector instrumentation, timing-system integration, system v
 
 ## My Contributions
 
-- Integrated and tested components of the central timing system
-- Performed timing-system calibration and validation
-- Assisted with detector-system integration
-- Supported testing of timing and signal pathways
+- Performed calibration and testing of the central timing system
+- Tested the Opto-Widget and associated timing and signal pathways
 - Contributed to technical documentation
-- Designed supporting instrumentation for laboratory operation and deployment
+- Designed supporting instrumentation for laboratory testing and operation
 
 My detector-development work contributed to peer-reviewed journal publications, conference proceedings, invited presentations, and research posters associated with the P-ONE collaboration.
 
