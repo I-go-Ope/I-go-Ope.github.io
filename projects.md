@@ -21,7 +21,7 @@ alt="Portable Platform for the P-ONE Timing System">
 
 As part of my work on the Pacific Ocean Neutrino Experiment, I designed and fabricated a portable instrumentation platform for the detector timing system.
 
-The platform provides a stable, organized, and transportable layout for electronics while improving accessibility during detector testing and deployment.
+The platform provides a stable, organized, and transportable layout for electronics while improving accessibility during detector testing.
 
 ### Design Objectives
 
